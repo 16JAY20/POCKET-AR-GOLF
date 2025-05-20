@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\assets\\mobileartemplateassets\\ui\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\ui\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|c:\\users\\sandi\\ar golf project\\ar golf project\\assets\\mobileartemplateassets\\ui\\scripts\\ingameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\ui\\scripts\\ingameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|c:\\users\\sandi\\ar golf project\\ar golf project\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\assets\\mobileartemplateassets\\ui\\scripts\\gamemodeselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\ui\\scripts\\gamemodeselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\assets\\mobileartemplateassets\\ui\\scripts\\multiplayerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\ui\\scripts\\multiplayerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\assets\\mobileartemplateassets\\ui\\scripts\\powerbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\ui\\scripts\\powerbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\assets\\mobileartemplateassets\\ui\\scripts\\scoreuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343D6726-DED9-1592-896E-7F809E0C4A16}|Assembly-CSharp.csproj|solutionrelative:assets\\mobileartemplateassets\\ui\\scripts\\scoreuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InGameUI.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\InGameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\InGameUI.cs",
+              "ToolTip": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\InGameUI.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\InGameUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:24:28.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TMP_SDF-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ToolTip": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-15T06:40:50.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameModeSelector.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\GameModeSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\GameModeSelector.cs",
+              "ToolTip": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\GameModeSelector.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\GameModeSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:30:38.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiplayerUI.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\MultiplayerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\MultiplayerUI.cs",
+              "ToolTip": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\MultiplayerUI.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\MultiplayerUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:26:15.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PowerBar.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\PowerBar.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\PowerBar.cs",
+              "ToolTip": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\PowerBar.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\PowerBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:36:21.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoreUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\ScoreUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\ScoreUIManager.cs",
+              "ToolTip": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\ScoreUIManager.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\ScoreUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:33:48.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\MainMenuUI.cs",
+              "ToolTip": "C:\\Users\\sandi\\AR Golf Project\\AR Golf Project\\Assets\\MobileARTemplateAssets\\UI\\Scripts\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\MobileARTemplateAssets\\UI\\Scripts\\MainMenuUI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:29:24.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
