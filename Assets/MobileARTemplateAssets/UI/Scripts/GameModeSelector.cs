@@ -12,4 +12,14 @@ public class GameModeSelector : MonoBehaviour
     {
         SceneManager.LoadScene("Multiplayer");
     }
+    public void BackToMenu()
+    {
+        Debug.Log("aaaaaaaaaaaaaaaaaaaaaa");
+        SceneManager.LoadScene("MainMenu");
+    }
+    public void test()
+    {
+        Debug.Log("aaaaaaaaaaaaaaaaaaaaaa");
+    }
+
 }
